@@ -67,4 +67,4 @@ LHAct achieves state-of-the-art performance averaged on the 4 OOD datasets.
 ![results](./results.png)
 
 
-## The code is improved based on ReAct[ReAct: Out-of-distribution Detection With Rectified Activations](https://openreview.net/pdf?id=IBVBtz_sRSm)'s source code.
+## The code is improved based on [ReAct: Out-of-distribution Detection With Rectified Activations](https://openreview.net/pdf?id=IBVBtz_sRSm)'s source code.
